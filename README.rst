@@ -3,6 +3,7 @@ Infoshift Guides
 
 Here's a collection of guides we can use.
 
+.. contents:: Table of Contents
 
 Guide to Contributing Code
 --------------------------
