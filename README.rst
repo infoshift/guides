@@ -31,8 +31,7 @@ high standards.
 
 1) Checkout pull-request.
 2) Review pull-request (code and functionality).
-3) Leave comments in the pull-request. Wait for suggested improvements to be
-pushed.
+3) Leave comments in the pull-request. Wait for suggested improvements to be pushed.
 4) Merge.
 
 
