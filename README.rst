@@ -12,7 +12,7 @@ Table of Contents
 [WIP] Guide to Infoshift's Values
 ----------------------------------
 
-A shifter has his/her own core values.
+A shifter lives his/her life firmly around these values.
 
 1) Noble
   "There is nothing noble in being superior to your fellow men.
@@ -34,15 +34,17 @@ A shifter has his/her own core values.
   - The truth is you are never always correct.
   
 5) Speaks his/her mind
-  - You, every though, and every knowledge you have are of big value.
   - With good intentions and an open mind, speak what you think.
-  - It is a contribution that counts.
+  - Your every thought and every knowledge counts. These are valuable.
   - If you find a video funny, share it with everyone so everyone can share
     the laughter.
   
-6) Always Learning
+6) Always learning
   - There's always something to learn from everyone and everything.
   - "Everyday is an opportunity to learn something new. Another day to disprove something that I knew."
+  
+7) Embraces randomness
+  - It has been with us since the beginning. Find positivity in it and embrace it.
   
   
 [WIP] Guide to Infoshift's Work Culture
