@@ -8,6 +8,22 @@ Table of Contents
 
 .. contents::
 
+
+Guide to Facilitating a Sprint Meeting
+--------------------------------------
+
+A sprint meeting is a meeting where the team discusses which tasks to do in that current sprint.
+Sprint duration varies between a week to a month. Our standard sprint duration is a week.
+
+1) Break down tasks into smaller manageable tasks.
+2) Determine task dependencies.
+3) Organize tasks order by the following criteria:
+  - dependencies (tasks with less dependencies should go up)
+  - urgency (tasks needed as soon as possible should go up)
+  - difficulty (tasks easier to implement should go up)
+4) Determine which tasks to do in the current sprint.
+
+
 Guide to Contributing Code
 --------------------------
 
