@@ -1,0 +1,5 @@
+guides:
+  build: .
+  working_dir: /app
+  volumes:
+    - docs/:/app
