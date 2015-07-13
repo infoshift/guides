@@ -22,8 +22,11 @@
   <!-- Initializer -->
   <script>
     Flatdoc.run({
-      fetcher: Flatdoc.github('infoshift/guides')
+      fetcher: Flatdoc.github('infoshift/guides', 'README.md')
     });
+    Flatdoc.run({
+      fetcher: Flatdoc.github('infoshift/guides', 'Values.md')
+    })
   </script>
 </head>
 <body role='flatdoc'>
