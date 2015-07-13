@@ -13,8 +13,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   values
-   work_culture
+   culture
    contributing
 
 
