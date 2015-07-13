@@ -1,6 +1,6 @@
-doc-html:
-	docker-compose run guides make html
+build:
+	docker-compose run guides bash -c 'make clean && make html'
 
-doc-push-html:
+push:
 	-git push origin :gh-pages
 	git subtree push --prefix docs/_build/html/ origin gh-pages
