@@ -15,6 +15,7 @@ Contents:
 
    values
    work_culture
+   contributing
 
 
 
